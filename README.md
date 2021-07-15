@@ -2,7 +2,7 @@
 
 # Requirements: 
   </br>
-  selenium firfox driver (or chrome or safari etc) </br>
+  selenium firefox driver (or chrome or safari etc) </br>
   python3.x </br>
   google form (hyper link) </br>
   Setting for google form </br>
