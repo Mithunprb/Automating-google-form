@@ -1,6 +1,6 @@
 # Automating-google-form
 
-#Requirements:
+# Requirements:
   selenium firfox driver (or chrome or safari etc)
   python3.x
   google form (hyper link)
