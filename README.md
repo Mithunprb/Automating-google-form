@@ -7,9 +7,9 @@
   google form (hyper link) </br>
   Setting for google form </br>
   &nbsp check list on for: </br>
-     &nbsp;&nbsp;  settings > presentation > - [x] show link to submit another response </br>
-     &nbsp;&nbsp;  - [ ] turn off everything else </br>
-     &nbsp;&nbsp;  - [ ] mandatory off : </br></br>
+     &nbsp;&nbsp; - [x]  1. settings > presentation > show link to submit another response </br>
+     &nbsp;&nbsp; - []  2. turn off everything else </br>
+     &nbsp;&nbsp; - []  3. mandatory off : </br></br>
        settings > General > Edit after submit </br>
        settings > General > Limit to 1 response </br>
        
