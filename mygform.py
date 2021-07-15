@@ -5,20 +5,20 @@ from selenium.webdriver.common.keys import Keys
 import random
 import time
 
-
+#Firefox driver config
+#feel free to use chrome, safari etc
 driver = webdriver.Firefox()
 
 driver.get('https://forms.gle/2AKYz8eqm3AYvfPC7')
 
+#wait for 5 sec
 time.sleep(5)
 
-
+#You can data that you want to add
+#in input text 
 datas = [
-    ['Praveen mane', 'parveen.m255@gmail.com'],
-    ['Radhika sane', 'radhikabiotech92@gmail.com'],
-
-    ['Ganesh Gosawi', 'greenflare.00@gmail.com'],
-    ['Shreya Rane', 'rane3009@hotmail.com'],
+    ['Sample Name', 'herergos@email'],
+    ['First Last', 'putemail@email.domain'],
 ]
 
 
@@ -32,6 +32,7 @@ for data in datas:
         "quantumWizTextinputPaperinputInput")
 
     
+    #remember to copy xpath not html not id/class xpath from <label>
     check1_0 = driver.find_element_by_xpath(
         '//*[@id="mG61Hd"]/div[2]/div/div[2]/div[3]/div/div/div[2]/div[1]/div/span/div/div[4]/label')
 
