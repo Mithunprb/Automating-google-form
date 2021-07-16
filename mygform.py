@@ -14,8 +14,7 @@ driver.get('https://forms.gle/2AKYz8eqm3AYvfPC7')
 #wait for 5 sec
 time.sleep(5)
 
-#You can data that you want to add
-#in input text 
+#put input data down here 
 datas = [
     ['Sample Name', 'herergos@email'],
     ['First Last', 'putemail@email.domain'],
