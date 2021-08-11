@@ -1,6 +1,6 @@
 # Automating-google-form
 
-# Requirements: 
+## Requirements: 
   </br>
   selenium firefox driver (or chrome or safari etc) </br>
   python3.x </br>
@@ -13,7 +13,7 @@
        ❎ settings > General > Edit after submit </br>
        ❎ settings > General > Limit to 1 response </br>
        
-  # My google form link: <br>
+  ### My google form link: <br>
   [mygform](https://forms.gle/iyMMX6vGh1yMtBFw8)
 
       
