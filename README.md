@@ -13,7 +13,7 @@ each response will choose randome choices from given choices,<br> Thus will crea
      &nbsp;&nbsp;  3. mandatory off : </br></br>
        ❎ settings > General > Edit after submit </br>
        ❎ settings > General > Limit to 1 response </br> -->
-    check list on for: </br>
+    check list on for: 
          ✔️ 1. settings > presentation > show link to submit another response 
           ❎ 2. turn off everything else (optional) 
              3. mandatory off : 
